@@ -1,1 +1,1 @@
-# connect4AI
+# Simple Connect 4 AI
